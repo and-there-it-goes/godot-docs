@@ -224,7 +224,7 @@ Some browsers restrict autoplay for audio on websites. The easiest way around th
 player to click, tap or press a key/button to enable audio, for instance when displaying a splash screen at the start of your game.
 
 .. seealso:: Google offers additional information about their `Web Audio autoplay
-             policies <https://sites.google.com/a/chromium.org/dev/audio-video/autoplay>`__.
+             policies <https://developer.chrome.com/blog/autoplay>`__.
 
              Apple's Safari team also posted additional information about their `Auto-Play Policy Changes for macOS
              <https://webkit.org/blog/7734/auto-play-policy-changes-for-macos/>`__.
